@@ -1,7 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/volkanogeday">![Banner](https://user-images.githubusercontent.com/111060829/188501744-a6a708ff-54b9-4d11-ae81-044d7334f612.png)
-</a>
+<a href="https://github.com/volkanogeday">![Banner](https://user-images.githubusercontent.com/111060829/188723712-b5475369-4771-4dc7-8d9b-2443649efee0.png)</a>
 
 I'm a 14 year old guy who loves coding, music, piano and designing. I'm currently learning .NET/C# and working on a project called SocialSpace which is an app to merge social media experience in one place.  
 
