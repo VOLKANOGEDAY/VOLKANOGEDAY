@@ -14,8 +14,8 @@ I'm a 14 year old guy who loves coding, music, piano and designing. I'm currentl
 <a href="https://discord.com/users/1000793854456381460">
   <img src="https://img.shields.io/badge/volkanogeday%238060-e0f7fa?style=for-the-badge&logo=discord&labelColor=b2ebf2&logoColor=black"  />
 </a>
-<a href="https://www.reddit.com/user/VOLKANOGEDAY">
-  <img src="https://img.shields.io/badge/VOLKANOGEDAY-e0f7fa?style=for-the-badge&logo=reddit&labelColor=b2ebf2&logoColor=black" />
+<a href="https://www.reddit.com/user/THEVOLKANOGEDAY">
+  <img src="https://img.shields.io/badge/THEVOLKANOGEDAY-e0f7fa?style=for-the-badge&logo=reddit&labelColor=b2ebf2&logoColor=black" />
 </a>
   <a href="https://twitter.com/THEVOLKANOGEDAY">
   <img src="https://img.shields.io/badge/@THEVOLKANOGEDAY-e0f7fa?style=for-the-badge&logo=twitter&labelColor=b2ebf2&logoColor=black" />
