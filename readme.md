@@ -2,7 +2,7 @@
 
 <a href="https://github.com/volkanogeday">![Banner](https://user-images.githubusercontent.com/111060829/188723712-b5475369-4771-4dc7-8d9b-2443649efee0.png)</a>
 
-I'm a 14 year old guy who loves coding, music, piano and designing. I'm currently learning .NET/C# and working on a project called SocialSpace which is an app to merge social media experience in one place.  
+Hi, I'm VOLKANOGEDAY. I'm a 14 year old guy who loves coding, music, piano and designing. I'm currently learning .NET/C# and improving my HTML/CSS skills. If you liked my work, consider donating. It would be a great support for me :)  
 
 ### Socials📱
 <a href="https://volkanogeday.github.io">
@@ -20,8 +20,11 @@ I'm a 14 year old guy who loves coding, music, piano and designing. I'm currentl
   <a href="https://twitter.com/THEVOLKANOGEDAY">
   <img src="https://img.shields.io/badge/@THEVOLKANOGEDAY-e0f7fa?style=for-the-badge&logo=twitter&labelColor=b2ebf2&logoColor=black" />
 </a>
-  <a href="https://instagram.com/thevolkanogeday/">
+  <a href="https://instagram.com/thevolkanogeday">
   <img src="https://img.shields.io/badge/thevolkanogeday-e0f7fa?style=for-the-badge&logo=instagram&labelColor=b2ebf2&logoColor=black" />
+</a>
+  <a href="https://www.buymeacoffee.com/volkanogeday">
+  <img src="https://img.shields.io/badge/VOLKANOGEDAY-e0f7fa?style=for-the-badge&logo=buy-me-a-coffee&labelColor=b2ebf2&logoColor=black" />
 </a>
 
 ### Languages & Tools 🛠️
@@ -33,14 +36,15 @@ I'm a 14 year old guy who loves coding, music, piano and designing. I'm currentl
   <img src="https://img.shields.io/badge/markdown-e0f7fa?style=for-the-badge&logo=markdown&labelColor=b2ebf2&logoColor=black"/>
   <img src="https://img.shields.io/badge/git-e0f7fa?style=for-the-badge&logo=git&labelColor=b2ebf2&logoColor=black"/>
   <img src="https://img.shields.io/badge/github-e0f7fa?style=for-the-badge&logo=github&labelColor=b2ebf2&logoColor=black"/>
-  <img src="https://img.shields.io/badge/visual%20studio-e0f7fa?style=for-the-badge&logo=visual%20studio&labelColor=b2ebf2&logoColor=black"/>
-  <img src="https://img.shields.io/badge/visual%20studio%20code-e0f7fa?style=for-the-badge&logo=visual%20studio%20code&labelColor=b2ebf2&logoColor=black"/>
+  <img src="https://img.shields.io/badge/visual%20studio-e0f7fa?style=for-the-badge&logo=visual-studio&labelColor=b2ebf2&logoColor=black"/>
+  <img src="https://img.shields.io/badge/visual%20studio%20code-e0f7fa?style=for-the-badge&logo=visual-studio-code&labelColor=b2ebf2&logoColor=black"/>
   <img src="https://img.shields.io/badge/linux-e0f7fa?style=for-the-badge&logo=linux&labelColor=b2ebf2&logoColor=black"/>
-  <img src="https://img.shields.io/badge/terminal-e0f7fa?style=for-the-badge&logo=windows%20terminal&labelColor=b2ebf2&logoColor=black"/>
+  <img src="https://img.shields.io/badge/terminal-e0f7fa?style=for-the-badge&logo=windows-terminal&labelColor=b2ebf2&logoColor=black"/>
   <img src="https://img.shields.io/badge/winui-e0f7fa?style=for-the-badge&logo=windows&labelColor=b2ebf2&logoColor=black"/>
   <img src="https://img.shields.io/badge/material%20design-e0f7fa?style=for-the-badge&logo=android&labelColor=b2ebf2&logoColor=black"/>
   <img src="https://img.shields.io/badge/figma-e0f7fa?style=for-the-badge&logo=figma&labelColor=b2ebf2&logoColor=black" />
-  <img src="https://img.shields.io/badge/photoshop-e0f7fa?style=for-the-badge&logo=adobe%20photoshop&labelColor=b2ebf2&logoColor=black"/>
+  <img src="https://img.shields.io/badge/photoshop-e0f7fa?style=for-the-badge&logo=adobe-photoshop&labelColor=b2ebf2&logoColor=black"/>
+  <img src="https://img.shields.io/badge/affinity%20photo-e0f7fa?style=for-the-badge&logo=affinity-photo&labelColor=b2ebf2&logoColor=black"/>
   <img src="https://img.shields.io/badge/autocad-e0f7fa?style=for-the-badge&logo=autodesk&labelColor=b2ebf2&logoColor=black"/>
 </a>
 
