@@ -2,7 +2,7 @@
 
 <a href="https://github.com/volkanogeday">![Banner](https://user-images.githubusercontent.com/111060829/188723712-b5475369-4771-4dc7-8d9b-2443649efee0.png)</a>
 
-Hi, I'm VOLKANOGEDAY. I'm a 14 year old guy who loves coding, music, piano and designing. I'm currently learning .NET/C# and improving my HTML/CSS skills. If you liked my work, consider donating. It would be a great support for me :)  
+Hi, I'm VOLKANOGEDAY, a 14 year old guy who is obsessed with music, designing, photography and coding. I'm currently trying to take my .NET/C#, HTML/CSS skills to one step further and learning Python. If you liked my work, please consider donating. It would be a great support for me :)  
 
 ### Socials📱
 <a href="https://volkanogeday.github.io">
